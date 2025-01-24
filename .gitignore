@@ -1,2 +1,6 @@
 data
 les_bubble
+*.f
+*.o
+*.mod
+a.out
